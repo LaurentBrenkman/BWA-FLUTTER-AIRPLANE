@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "619489973843",
+    "project_id": "airplane-f497d",
+    "storage_bucket": "airplane-f497d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619489973843:android:d361bbbfc574ab053c18a6",
+        "android_client_info": {
+          "package_name": "com.laurent.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619489973843-qt98lm8uqhsltlbnj03h1lcehaa7hbqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqaSpGyjkIU0dHv5ROJbQqGbUV-RoSfgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619489973843-qt98lm8uqhsltlbnj03h1lcehaa7hbqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
